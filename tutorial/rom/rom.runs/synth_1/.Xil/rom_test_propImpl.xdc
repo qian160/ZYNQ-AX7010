@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:/home/nakashima/projects/zynq-7010/tutorial/rom/rom.srcs/constrs_1/new/rom.xdc rfile:../../../rom.srcs/constrs_1/new/rom.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:4 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN U18 [get_ports {sys_clk}]
+set_property src_info {type:XDC file:1 line:7 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN N15 [get_ports {rst_n}]
