@@ -87,5 +87,6 @@
 !*.bmm
 !*.xmp
 
+notes
 # ignore the *.gen folders
-*.gen
+**/*.gen/
